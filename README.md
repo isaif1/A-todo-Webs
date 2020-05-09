@@ -3,7 +3,7 @@ It is a to-do web app. It can be open on the side window of your working browser
 How to use on local machine:
 
 First download this project for given image
-![Image description](https://drive.google.com/open?id=14YFoy5P1mj9TmWZgXNKP4CZ7HqvYvaaA)
+![Alt text](https://drive.google.com/open?id=14YFoy5P1mj9TmWZgXNKP4CZ7HqvYvaaA)
 
 Now open your folder where this project is downloaded.
 
